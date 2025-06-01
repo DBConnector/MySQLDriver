@@ -19,8 +19,8 @@
 
 package me.axolotldev.dbconnector.driver
 
-import me.axolotldev.dbc.abstracts.database.DatabaseInfo
-import me.axolotldev.dbc.abstracts.database.DriverInfo
+import me.axolotldev.dbconnector.abstracts.database.DatabaseInfo
+import me.axolotldev.dbconnector.abstracts.database.DriverInfo
 import java.sql.DriverManager
 
 /**
