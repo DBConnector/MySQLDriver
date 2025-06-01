@@ -34,7 +34,7 @@ class MySQLDriverData: DriverInfo {
         /**
          * Singleton instance of MySQLDriverData for global use.
          */
-        @JvmStatic
+        @JvmField
         @Suppress("unused")
         val INSTANCE: MySQLDriverData = MySQLDriverData()
     }
